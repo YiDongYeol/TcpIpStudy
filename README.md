@@ -1,5 +1,5 @@
 # TcpIpStudy
 
 ## Day01
-- Linux TcpIp 통신
-- Windows TcpIp 통신
+- Linux Tcp/Ip 통신
+- Windows Tcp/Ip 통신
