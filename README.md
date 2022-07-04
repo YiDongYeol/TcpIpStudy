@@ -16,8 +16,15 @@
 - Nagle 알고리즘
 
 ## Day05
- - fork 함수를 통한 멀티 프로세싱
- - 좀비 프로세스
- - wait, waitpid 함수
- - 시그널 핸들링
- - 멀티 프로세싱을 이용한 
+- fork 함수를 통한 멀티 프로세싱
+- 좀비 프로세스
+- wait, waitpid 함수
+- 시그널 핸들링
+- 멀티 프로세싱을 이용한 
+
+## Day06
+- 멀티플렉싱 서버
+- send, recv 입출력 함수
+- urgent mode
+- readv, writev 함수
+- 멀티캐스트, 브로드캐스트
